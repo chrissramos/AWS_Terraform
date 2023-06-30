@@ -1,0 +1,13 @@
+project_name = "randall-project"
+
+vpc_module = {
+  vpc_cidr = "199.0.0.0/24"
+}
+
+launch_template_module = {
+  instance_size = "t2.micro"
+  disk_size = 8
+  ami = "ami-01107263728f3bef4"
+}
+
+route53 = "Z06886031V6MDUVE7YHG7"
