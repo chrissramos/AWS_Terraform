@@ -1,4 +1,5 @@
 # AWS_Terraform
 Infrastructure deployed on AWS using Terraform
+![](imagen1.png)
 
-[Texto alternativo](imagen1.jpg)
+> Infrastructure deployed.
